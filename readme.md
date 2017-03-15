@@ -1,7 +1,7 @@
-# npm のバージョン変更したときにグローバルに色々とインストールしたい
+# npm のバージョン変更したときにグローバルにインストール
 [目的] globalList.jsをメンテすれば、いいようにする。
 
-## インストール
+## インストール方法
 
 ```
 git clone https://github.com/wilf312/npm-global.git && cd npm-global && npm start
