@@ -1,4 +1,6 @@
 # npm のバージョン変更したときにグローバルにインストール
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/wilf312/npm-global.svg)](https://greenkeeper.io/)
 [目的] globalList.jsをメンテすれば、いいようにする。
 
 ## インストール方法
